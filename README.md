@@ -1,8 +1,8 @@
-# React + Vite
+# Nebula AI Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Deployment Link: https://nebula-theta-one.vercel.app/
 
-Currently, two official plugins are available:
+Nebula is an AI-powered assistant built with ReactJS, TailwindCSS designed to provide seamless user interactions. The application features a dynamic sidebar, voice input using speech recognition, and a responsive UI. It includes functionalities like Google Sign-In(Clerk), text editing, response regeneration, copy-to-clipboard features, and to stop generating responses. The assistant is enhanced with real-time response generation, smooth animations, and user-friendly components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
