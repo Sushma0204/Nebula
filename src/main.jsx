@@ -6,7 +6,7 @@ import './index.css'
 import ContextProvider from './context/ContextProvider.jsx'
 import { ClerkProvider } from '@clerk/clerk-react'
 
-const PUBLISHABLE_KEY = import.meta.env.VITE_CLERK_PUBLISHABLE_KEY
+const PUBLISHABLE_KEY = "pk_test_Y29udGVudC1jb2QtOTAuY2xlcmsuYWNjb3VudHMuZGV2JA"
 
 if (!PUBLISHABLE_KEY) {
   throw new Error("Clerk publishable key is missing");
